@@ -1,0 +1,504 @@
+subject_id,hadm_id,icd9_code,seq_num,procedure_title,age_at_admit,age_group
+43827,149950,0066,1,Percutaneous transluminal coronary angioplasty [PTCA],299.0,80+
+10126,160445,0093,18,Transplant from cadaver,44.0,20-49
+10098,180685,0118,1,Other diagnostic procedures on brain and cerebral meninges,19.0,0-19
+10126,160445,0012,12,Administration of inhaled nitric oxide,44.0,20-49
+10126,160445,0013,11,Injection or infusion of nesiritide,44.0,20-49
+41976,153826,0014,1,Injection or infusion of oxazolidinone class of antibiotics,66.0,50-79
+10029,132349,0017,4,Infusion of vasopressor agent,78.0,50-79
+43827,149950,0040,3,Procedure on single vessel,299.0,80+
+42199,178513,0041,4,Procedure on two vessels,72.0,50-79
+42075,151323,0045,16,Insertion of one vascular stent,80.0,80+
+43827,149950,0047,4,Insertion of three vascular stents,299.0,80+
+40310,157609,0331,1,Spinal tap,41.0,20-49
+10127,182839,0353,3,Repair of vertebral fracture,17.0,0-19
+40310,186361,0392,14,Injection of other agent into spinal canal,40.0,20-49
+42367,139932,0243,4,Removal of ventricular shunt,87.0,80+
+42367,139932,0131,5,Incision of cerebral meninges,87.0,80+
+42367,139932,0151,3,Excision of lesion or tissue of cerebral meninges,87.0,80+
+10046,133110,0159,1,Other excision or destruction of lesion or tissue of brain,53.0,50-79
+40310,186361,0852,2,Blepharorrhaphy,40.0,20-49
+10032,140372,046,3,Transposition of cranial and peripheral nerves,88.0,80+
+40595,116518,3322,9,Fiber-optic bronchoscopy,76.0,50-79
+40124,146893,3323,3,Other bronchoscopy,67.0,50-79
+40310,186361,3324,13,Closed [endoscopic] biopsy of bronchus,40.0,20-49
+41976,180546,3329,1,Other diagnostic procedures on lung or bronchus,64.0,50-79
+40595,116518,3391,2,Bronchial dilation,76.0,50-79
+43798,130870,3404,6,Insertion of intercostal catheter for drainage,61.0,50-79
+44083,198330,3406,2,Thoracoscopic drainage of pleural cavity,54.0,50-79
+40304,174997,3422,1,Mediastinoscopy,76.0,50-79
+40124,146893,3491,4,Thoracentesis,67.0,50-79
+43879,158100,3492,2,Injection into thoracic cavity,55.0,50-79
+10027,199395,3523,1,Open and other replacement of mitral valve with tissue graft,82.0,80+
+43798,130870,311,10,Temporary tracheostomy,61.0,50-79
+42367,139932,3129,2,Other permanent tracheostomy,87.0,80+
+40277,127703,3142,1,Laryngoscopy and other tracheoscopy,80.0,80+
+44083,198330,370,3,Pericardiocentesis,54.0,50-79
+44083,131048,3721,1,Right heart cardiac catheterization,54.0,50-79
+43827,149950,3606,2,Insertion of non-drug-eluting coronary artery stent(s),299.0,80+
+10040,157839,3607,2,Insertion of drug-eluting coronary artery stent(s),85.0,80+
+43927,110958,3612,1,(Aorto)coronary bypass of two coronary arteries,71.0,50-79
+43927,110958,3615,2,Single internal mammary-coronary artery bypass,71.0,50-79
+10045,126949,3818,3,"Endarterectomy, lower limb arteries",68.0,50-79
+41976,176016,3932,5,Suture of vein,62.0,50-79
+10029,132349,3942,1,Revision of arteriovenous shunt for renal dialysis,78.0,50-79
+10045,126949,3950,4,Angioplasty of other non-coronary vessel(s),68.0,50-79
+43927,110958,3961,3,Extracorporeal circulation auxiliary to open heart surgery,71.0,50-79
+42199,178513,3974,1,Endovascular removal of obstruction from head and neck vessel(s),72.0,50-79
+10126,160445,3979,4,Other endovascular procedures on other vessels,44.0,20-49
+41976,130681,3891,2,Arterial catheterization,64.0,50-79
+41976,125013,3893,1,"Venous catheterization, not elsewhere classified",65.0,50-79
+44212,163189,3895,7,Venous catheterization for renal dialysis,45.0,20-49
+41976,153826,3897,2,Central venous catheter placement with guidance,66.0,50-79
+10114,167957,3722,2,Left heart cardiac catheterization,72.0,50-79
+43827,149950,3723,5,Combined right and left heart cardiac catheterization,299.0,80+
+10042,148562,3726,7,Catheter based invasive electrophysiologic testing,70.0,50-79
+41976,176016,5412,6,Reopening of recent laparotomy site,62.0,50-79
+42135,102203,5491,2,Percutaneous abdominal drainage,43.0,20-49
+10042,148562,3761,4,Implant of pulsation balloon,70.0,50-79
+10074,170119,3771,1,Initial insertion of transvenous lead [electrode] into ventricle,85.0,80+
+10027,199395,3772,5,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,82.0,80+
+10074,170119,3781,2,"Initial insertion of single-chamber device, not specified as rate responsive",85.0,80+
+10027,199395,3783,6,Initial insertion of dual-chamber device,82.0,80+
+44083,125157,4399,1,Other total gastrectomy,54.0,50-79
+41976,125449,4432,1,Percutaneous [endoscopic] gastrojejunostomy,62.0,50-79
+41976,176016,4439,1,Other gastroenterostomy without gastrectomy,62.0,50-79
+10119,165436,4443,1,Endoscopic control of gastric or duodenal bleeding,81.0,80+
+41795,138132,4513,5,Other endoscopy of small intestine,48.0,20-49
+10083,134993,4516,1,Esophagogastroduodenoscopy [EGD] with closed biopsy,82.0,80+
+10112,188574,4524,1,Flexible sigmoidoscopy,78.0,50-79
+10061,145203,4525,4,Closed [endoscopic] biopsy of large intestine,75.0,50-79
+10045,126949,3990,7,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),68.0,50-79
+44212,163189,3995,2,Hemodialysis,45.0,20-49
+40304,174997,4011,2,Biopsy of lymphatic structure,76.0,50-79
+42231,171878,403,3,Regional lymph node excision,85.0,80+
+40310,186361,4131,12,Biopsy of bone marrow,40.0,20-49
+44083,125157,4223,2,Other esophagoscopy,54.0,50-79
+42281,195911,4233,4,Endoscopic excision or destruction of lesion or tissue of esophagus,68.0,50-79
+43798,130870,4252,2,Intrathoracic esophagogastrostomy,61.0,50-79
+40595,116518,4311,13,Percutaneous [endoscopic] gastrostomy [PEG],76.0,50-79
+40310,186361,4319,10,Other gastrostomy,40.0,20-49
+10126,160445,5011,14,Closed (percutaneous) [needle] biopsy of liver,44.0,20-49
+10126,160445,5012,5,Open biopsy of liver,44.0,20-49
+10126,160445,5059,1,Other transplant of liver,44.0,20-49
+10067,160442,5061,1,Closure of laceration of liver,29.0,20-49
+10119,157466,5122,1,Cholecystectomy,81.0,80+
+10119,157466,5151,2,Exploration of common duct,81.0,80+
+10126,160445,5187,9,Endoscopic insertion of stent (tube) into bile duct,44.0,20-49
+41976,176016,4582,2,Open total intra-abdominal colectomy,62.0,50-79
+43746,167181,4613,1,Permanent colostomy,81.0,80+
+41976,176016,4623,3,Other permanent ileostomy,62.0,50-79
+10065,183314,4639,2,Other enterostomy,78.0,50-79
+10130,156668,4674,1,"Closure of fistula of small intestine, except duodenum",51.0,50-79
+42346,175880,4685,1,Dilation of intestine,88.0,80+
+42281,195911,4823,8,Rigid proctosigmoidoscopy,68.0,50-79
+42231,171878,5551,1,Nephroureterectomy,85.0,80+
+10045,126949,8314,5,Fasciotomy,68.0,50-79
+40310,186361,8345,1,Other myectomy,40.0,20-49
+44083,198330,3712,1,Pericardiotomy,54.0,50-79
+10126,160445,3949,2,Other revision of vascular procedure,44.0,20-49
+43881,167021,387,1,Interruption of the vena cava,53.0,50-79
+40177,198480,5198,1,Other percutaneous procedures on biliary tract,86.0,80+
+10112,188574,4542,2,Endoscopic polypectomy of large intestine,78.0,50-79
+40177,198480,5110,2,Endoscopic retrograde cholangiopancreatography [ERCP],86.0,80+
+42075,151323,0066,1,Percutaneous transluminal coronary angioplasty [PTCA],80.0,80+
+10120,193924,0118,1,Other diagnostic procedures on brain and cerebral meninges,27.0,20-49
+10006,142345,0014,7,Injection or infusion of oxazolidinone class of antibiotics,70.0,50-79
+10119,157466,0017,6,Infusion of vasopressor agent,81.0,80+
+42075,151323,0040,7,Procedure on single vessel,80.0,80+
+10045,126949,0041,8,Procedure on two vessels,68.0,50-79
+10045,126949,0045,9,Insertion of one vascular stent,68.0,50-79
+41914,101361,0331,7,Spinal tap,55.0,50-79
+42367,139932,0131,1,Incision of cerebral meninges,87.0,80+
+10043,168674,3322,3,Fiber-optic bronchoscopy,76.0,50-79
+40595,116518,3323,4,Other bronchoscopy,76.0,50-79
+40310,186361,3324,9,Closed [endoscopic] biopsy of bronchus,40.0,20-49
+42321,114648,3404,2,Insertion of intercostal catheter for drainage,80.0,80+
+43879,158100,3406,1,Thoracoscopic drainage of pleural cavity,55.0,50-79
+44083,125157,3491,3,Thoracentesis,54.0,50-79
+41976,172082,311,1,Temporary tracheostomy,63.0,50-79
+44083,131048,370,3,Pericardiocentesis,54.0,50-79
+42075,151323,3606,2,Insertion of non-drug-eluting coronary artery stent(s),80.0,80+
+10027,199395,3612,2,(Aorto)coronary bypass of two coronary arteries,82.0,80+
+10042,148562,3615,2,Single internal mammary-coronary artery bypass,70.0,50-79
+42231,171878,3932,2,Suture of vein,85.0,80+
+10126,160445,3950,6,Angioplasty of other non-coronary vessel(s),44.0,20-49
+10027,199395,3961,3,Extracorporeal circulation auxiliary to open heart surgery,82.0,80+
+41976,173269,3891,1,Arterial catheterization,62.0,50-79
+41976,155297,3893,1,"Venous catheterization, not elsewhere classified",65.0,50-79
+44212,163189,3895,4,Venous catheterization for renal dialysis,45.0,20-49
+41976,149469,3897,2,Central venous catheter placement with guidance,66.0,50-79
+40503,168803,3723,1,Combined right and left heart cardiac catheterization,88.0,80+
+41976,176016,5412,4,Reopening of recent laparotomy site,62.0,50-79
+43798,130870,5491,9,Percutaneous abdominal drainage,61.0,50-79
+10111,174739,3772,1,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,82.0,80+
+10111,174739,3783,2,Initial insertion of dual-chamber device,82.0,80+
+43798,130870,4399,1,Other total gastrectomy,61.0,50-79
+41976,172082,4513,5,Other endoscopy of small intestine,63.0,50-79
+10061,145203,4516,5,Esophagogastroduodenoscopy [EGD] with closed biopsy,75.0,50-79
+10126,160445,3990,20,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),44.0,20-49
+40204,175237,3995,1,Hemodialysis,76.0,50-79
+40310,186361,4131,11,Biopsy of bone marrow,40.0,20-49
+42281,195911,4233,1,Endoscopic excision or destruction of lesion or tissue of esophagus,68.0,50-79
+42281,195911,4311,6,Percutaneous [endoscopic] gastrostomy [PEG],68.0,50-79
+10126,160445,5011,13,Closed (percutaneous) [needle] biopsy of liver,44.0,20-49
+10045,126949,4623,2,Other permanent ileostomy,68.0,50-79
+10130,156668,8345,3,Other myectomy,51.0,50-79
+10067,160442,3712,2,Pericardiotomy,29.0,20-49
+10127,182839,387,8,Interruption of the vena cava,17.0,0-19
+10029,132349,5110,2,Endoscopic retrograde cholangiopancreatography [ERCP],78.0,50-79
+10019,177759,0017,2,Infusion of vasopressor agent,48.0,20-49
+10127,182839,0331,12,Spinal tap,17.0,0-19
+10069,146672,3322,3,Fiber-optic bronchoscopy,41.0,20-49
+43798,130870,3324,7,Closed [endoscopic] biopsy of bronchus,61.0,50-79
+10067,160442,3404,3,Insertion of intercostal catheter for drainage,29.0,20-49
+40687,129273,3491,2,Thoracentesis,81.0,80+
+10126,160445,311,3,Temporary tracheostomy,44.0,20-49
+10042,148562,3612,1,(Aorto)coronary bypass of two coronary arteries,70.0,50-79
+10035,110244,3950,1,Angioplasty of other non-coronary vessel(s),75.0,50-79
+10042,148562,3961,3,Extracorporeal circulation auxiliary to open heart surgery,70.0,50-79
+42075,151323,3891,8,Arterial catheterization,80.0,80+
+41976,179418,3893,2,"Venous catheterization, not elsewhere classified",65.0,50-79
+10029,132349,3895,8,Venous catheterization for renal dialysis,78.0,50-79
+41976,149469,3897,1,Central venous catheter placement with guidance,66.0,50-79
+40601,182879,3723,1,Combined right and left heart cardiac catheterization,72.0,50-79
+43735,112662,5491,2,Percutaneous abdominal drainage,82.0,80+
+10065,183314,4399,1,Other total gastrectomy,78.0,50-79
+43881,172454,4513,1,Other endoscopy of small intestine,53.0,50-79
+10035,110244,3990,2,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),75.0,50-79
+10029,132349,3995,5,Hemodialysis,78.0,50-79
+10059,142582,4233,1,Endoscopic excision or destruction of lesion or tissue of esophagus,69.0,50-79
+10127,182839,4311,16,Percutaneous [endoscopic] gastrostomy [PEG],17.0,0-19
+10130,156668,4623,2,Other permanent ileostomy,51.0,50-79
+10094,168074,0017,2,Infusion of vasopressor agent,299.0,80+
+10106,133283,0331,3,Spinal tap,63.0,50-79
+42075,151323,3324,11,Closed [endoscopic] biopsy of bronchus,80.0,80+
+10126,160445,3404,21,Insertion of intercostal catheter for drainage,44.0,20-49
+44083,131048,3491,2,Thoracentesis,54.0,50-79
+10127,182839,311,2,Temporary tracheostomy,17.0,0-19
+42430,100969,3891,3,Arterial catheterization,80.0,80+
+41976,179418,3893,1,"Venous catheterization, not elsewhere classified",65.0,50-79
+10059,122098,3895,6,Venous catheterization for renal dialysis,69.0,50-79
+42033,154156,3723,1,Combined right and left heart cardiac catheterization,85.0,80+
+42135,117105,5491,1,Percutaneous abdominal drainage,44.0,20-49
+42281,195911,4513,5,Other endoscopy of small intestine,68.0,50-79
+10059,122098,3995,7,Hemodialysis,69.0,50-79
+10069,146672,0331,7,Spinal tap,41.0,20-49
+41914,101361,3324,8,Closed [endoscopic] biopsy of bronchus,55.0,50-79
+40595,116518,3491,6,Thoracentesis,76.0,50-79
+10059,122098,3891,2,Arterial catheterization,69.0,50-79
+41976,145024,3893,3,"Venous catheterization, not elsewhere classified",65.0,50-79
+10006,142345,3895,3,Venous catheterization for renal dialysis,70.0,50-79
+42075,151323,3723,3,Combined right and left heart cardiac catheterization,80.0,80+
+42281,195911,5491,3,Percutaneous abdominal drainage,68.0,50-79
+43881,167021,4513,2,Other endoscopy of small intestine,53.0,50-79
+10019,177759,3995,3,Hemodialysis,48.0,20-49
+40304,174997,3324,4,Closed [endoscopic] biopsy of bronchus,76.0,50-79
+10132,197611,3491,3,Thoracentesis,65.0,50-79
+10093,165393,3891,5,Arterial catheterization,87.0,80+
+41976,130681,3893,1,"Venous catheterization, not elsewhere classified",64.0,50-79
+10040,157839,3723,3,Combined right and left heart cardiac catheterization,85.0,80+
+44212,163189,5491,5,Percutaneous abdominal drainage,45.0,20-49
+10059,122098,4513,1,Other endoscopy of small intestine,69.0,50-79
+10126,160445,3995,7,Hemodialysis,44.0,20-49
+40304,174997,3324,3,Closed [endoscopic] biopsy of bronchus,76.0,50-79
+10098,180685,3891,2,Arterial catheterization,19.0,0-19
+41976,152032,3893,1,"Venous catheterization, not elsewhere classified",63.0,50-79
+10061,145203,3723,1,Combined right and left heart cardiac catheterization,75.0,50-79
+10059,122098,5491,8,Percutaneous abdominal drainage,69.0,50-79
+10120,193924,3995,4,Hemodialysis,27.0,20-49
+10124,170883,3324,2,Closed [endoscopic] biopsy of bronchus,83.0,80+
+10042,148562,3891,5,Arterial catheterization,70.0,50-79
+41976,173269,3893,2,"Venous catheterization, not elsewhere classified",62.0,50-79
+10126,160445,5491,15,Percutaneous abdominal drainage,44.0,20-49
+10006,142345,3995,4,Hemodialysis,70.0,50-79
+10127,182839,3324,13,Closed [endoscopic] biopsy of bronchus,17.0,0-19
+10088,169938,3891,3,Arterial catheterization,77.0,50-79
+43748,121860,3893,1,"Venous catheterization, not elsewhere classified",79.0,50-79
+10126,160445,5491,10,Percutaneous abdominal drainage,44.0,20-49
+10117,105150,3995,1,Hemodialysis,66.0,50-79
+10132,197611,3324,2,Closed [endoscopic] biopsy of bronchus,65.0,50-79
+10013,165520,3891,1,Arterial catheterization,87.0,80+
+43870,142633,3893,1,"Venous catheterization, not elsewhere classified",88.0,80+
+10126,160445,5491,8,Percutaneous abdominal drainage,44.0,20-49
+40601,182879,3893,3,"Venous catheterization, not elsewhere classified",72.0,50-79
+10006,142345,5491,2,Percutaneous abdominal drainage,70.0,50-79
+40655,126002,3893,1,"Venous catheterization, not elsewhere classified",299.0,80+
+10130,156668,5491,4,Percutaneous abdominal drainage,51.0,50-79
+40310,186361,3893,6,"Venous catheterization, not elsewhere classified",40.0,20-49
+41795,138132,3893,4,"Venous catheterization, not elsewhere classified",48.0,20-49
+41795,138132,3893,3,"Venous catheterization, not elsewhere classified",48.0,20-49
+41976,176016,3893,8,"Venous catheterization, not elsewhere classified",62.0,50-79
+42075,151323,3893,12,"Venous catheterization, not elsewhere classified",80.0,80+
+42075,151323,3893,9,"Venous catheterization, not elsewhere classified",80.0,80+
+41976,172082,3893,7,"Venous catheterization, not elsewhere classified",63.0,50-79
+43735,112662,3893,1,"Venous catheterization, not elsewhere classified",82.0,80+
+42321,114648,3893,1,"Venous catheterization, not elsewhere classified",80.0,80+
+41914,101361,3893,6,"Venous catheterization, not elsewhere classified",55.0,50-79
+44228,103379,3893,2,"Venous catheterization, not elsewhere classified",58.0,50-79
+44228,103379,3893,1,"Venous catheterization, not elsewhere classified",58.0,50-79
+41976,125449,3893,4,"Venous catheterization, not elsewhere classified",62.0,50-79
+42367,139932,3893,9,"Venous catheterization, not elsewhere classified",87.0,80+
+42367,139932,3893,6,"Venous catheterization, not elsewhere classified",87.0,80+
+42281,195911,3893,12,"Venous catheterization, not elsewhere classified",68.0,50-79
+44212,163189,3893,3,"Venous catheterization, not elsewhere classified",45.0,20-49
+10059,122098,3893,3,"Venous catheterization, not elsewhere classified",69.0,50-79
+10093,165393,3893,3,"Venous catheterization, not elsewhere classified",87.0,80+
+10083,134993,3893,3,"Venous catheterization, not elsewhere classified",82.0,80+
+10038,111115,3893,3,"Venous catheterization, not elsewhere classified",88.0,80+
+10124,170883,3893,5,"Venous catheterization, not elsewhere classified",83.0,80+
+10126,160445,3893,17,"Venous catheterization, not elsewhere classified",44.0,20-49
+10098,180685,3893,3,"Venous catheterization, not elsewhere classified",19.0,0-19
+10127,182839,3893,18,"Venous catheterization, not elsewhere classified",17.0,0-19
+10127,182839,3893,14,"Venous catheterization, not elsewhere classified",17.0,0-19
+10027,199395,3893,9,"Venous catheterization, not elsewhere classified",82.0,80+
+10120,193924,3893,3,"Venous catheterization, not elsewhere classified",27.0,20-49
+10094,122928,3893,1,"Venous catheterization, not elsewhere classified",300.0,80+
+10094,168074,3893,1,"Venous catheterization, not elsewhere classified",299.0,80+
+10032,140372,3893,4,"Venous catheterization, not elsewhere classified",88.0,80+
+10088,168233,3893,3,"Venous catheterization, not elsewhere classified",77.0,50-79
+10106,133283,3893,2,"Venous catheterization, not elsewhere classified",63.0,50-79
+10088,169938,3893,4,"Venous catheterization, not elsewhere classified",77.0,50-79
+10076,198503,3893,4,"Venous catheterization, not elsewhere classified",68.0,50-79
+10036,189483,3893,1,"Venous catheterization, not elsewhere classified",299.0,80+
+10102,164869,3893,2,"Venous catheterization, not elsewhere classified",70.0,50-79
+10006,142345,3893,5,"Venous catheterization, not elsewhere classified",70.0,50-79
+10111,174739,3893,6,"Venous catheterization, not elsewhere classified",82.0,80+
+10061,145203,3893,6,"Venous catheterization, not elsewhere classified",75.0,50-79
+10044,124073,3893,2,"Venous catheterization, not elsewhere classified",81.0,80+
+10011,105331,3893,2,"Venous catheterization, not elsewhere classified",36.0,20-49
+10069,146672,3893,6,"Venous catheterization, not elsewhere classified",41.0,20-49
+10130,156668,3893,6,"Venous catheterization, not elsewhere classified",51.0,50-79
+44083,198330,8605,4,Incision with removal of foreign body or device from skin and subcutaneous tissue,54.0,50-79
+40310,186361,8607,5,Insertion of totally implantable vascular access device [VAD],40.0,20-49
+41976,130681,5732,4,Other cystoscopy,64.0,50-79
+42412,114867,5795,1,Replacement of indwelling urinary catheter,86.0,80+
+10127,182839,8162,9,Fusion or refusion of 2-3 vertebrae,17.0,0-19
+10017,199207,8181,1,Partial shoulder replacement,73.0,50-79
+43748,121860,8191,2,Arthrocentesis,79.0,50-79
+41914,101361,8914,10,Electroencephalogram,55.0,50-79
+10045,126949,8960,6,Continuous intra-arterial blood gas monitoring,68.0,50-79
+10119,157466,8964,5,Pulmonary artery wedge monitoring,81.0,80+
+10127,182839,7815,5,"Application of external fixator device, femur",17.0,0-19
+10127,182839,7865,7,"Removal of implanted devices from bone, femur",17.0,0-19
+40286,109698,7869,2,"Removal of implanted devices from bone, other bones",83.0,80+
+10127,182839,8101,1,Atlas-axis spinal fusion,17.0,0-19
+10127,182839,8103,4,"Other cervical fusion of the posterior column, posterior technique",17.0,0-19
+10127,182839,7905,10,"Closed reduction of fracture without internal fixation, femur",17.0,0-19
+10032,140372,7931,1,"Open reduction of fracture with internal fixation, humerus",88.0,80+
+10124,182664,7935,1,"Open reduction of fracture with internal fixation, femur",83.0,80+
+40286,109698,8151,1,Total hip replacement,83.0,80+
+42292,138503,9462,1,Alcohol detoxification,63.0,50-79
+42199,178513,8841,2,Arteriography of cerebral arteries,72.0,50-79
+10114,167957,8843,6,Arteriography of pulmonary arteries,72.0,50-79
+10045,126949,8848,10,Arteriography of femoral and other lower extremity arteries,68.0,50-79
+10029,132349,8849,7,Arteriography of other specified sites,78.0,50-79
+42075,151323,8852,4,Angiocardiography of right heart structures,80.0,80+
+40503,168803,8853,3,Angiocardiography of left heart structures,88.0,80+
+41914,101361,8872,4,Diagnostic ultrasound of heart,55.0,50-79
+42075,151323,9920,6,Injection or infusion of platelet inhibitor,80.0,80+
+41914,101361,9921,5,Injection of antibiotic,55.0,50-79
+40310,186361,9925,4,Injection or infusion of cancer chemotherapeutic substance,40.0,20-49
+10132,197611,9929,4,Injection or infusion of other therapeutic or prophylactic substance,65.0,50-79
+40310,157609,9229,2,Other radiotherapeutic procedure,41.0,20-49
+10067,160442,9960,4,"Cardiopulmonary resuscitation, not otherwise specified",29.0,20-49
+42033,154156,9962,3,Other electric countershock of heart,85.0,80+
+10127,182839,9344,11,Other skeletal traction,17.0,0-19
+40687,129273,9390,1,Non-invasive mechanical ventilation,81.0,80+
+10098,180685,8659,4,Closure of skin and subcutaneous tissue of other sites,19.0,0-19
+10029,132349,8721,6,Contrast myelogram,78.0,50-79
+10119,157466,8754,7,Other cholangiogram,81.0,80+
+40177,198480,9604,4,Insertion of endotracheal tube,86.0,80+
+41976,172082,9605,2,Other intubation of respiratory tract,63.0,50-79
+10027,199395,9626,8,Manual reduction of rectal prolapse,82.0,80+
+40595,116518,9656,3,Other lavage of bronchus and trachea,76.0,50-79
+41976,151798,966,1,Enteral infusion of concentrated nutritional substances,65.0,50-79
+40177,198480,9671,3,Continuous invasive mechanical ventilation for less than 96 consecutive hours,86.0,80+
+41976,145024,9702,2,Replacement of gastrostomy tube,65.0,50-79
+10029,132349,9705,3,Replacement of stent (tube) in biliary or pancreatic duct,78.0,50-79
+10006,142345,9749,1,Removal of other device from thorax,70.0,50-79
+40286,109698,9904,3,Transfusion of packed cells,83.0,80+
+42367,139932,9905,11,Transfusion of platelets,87.0,80+
+42321,114648,9907,3,Transfusion of other serum,80.0,80+
+10120,193924,9909,7,Transfusion of other substance,27.0,20-49
+42199,178513,9910,3,Injection or infusion of thrombolytic agent,72.0,50-79
+41976,176016,9915,9,Parenteral infusion of concentrated nutritional substances,62.0,50-79
+10126,160445,8847,19,Arteriography of other intra-abdominal arteries,44.0,20-49
+43827,149950,8856,6,Coronary arteriography using two catheters,299.0,80+
+10119,157466,8753,3,Intraoperative cholangiogram,81.0,80+
+40310,186361,9672,3,Continuous invasive mechanical ventilation for 96 consecutive hours or more,40.0,20-49
+41976,145024,9723,1,Replacement of tracheostomy tube,65.0,50-79
+10038,111115,8191,1,Arthrocentesis,88.0,80+
+10104,177678,8914,1,Electroencephalogram,70.0,50-79
+10076,198503,8964,6,Pulmonary artery wedge monitoring,68.0,50-79
+10127,182839,7935,6,"Open reduction of fracture with internal fixation, femur",17.0,0-19
+10106,133283,8841,1,Arteriography of cerebral arteries,63.0,50-79
+10040,157839,8852,4,Angiocardiography of right heart structures,85.0,80+
+10038,111115,8872,2,Diagnostic ultrasound of heart,88.0,80+
+10040,157839,9920,6,Injection or infusion of platelet inhibitor,85.0,80+
+10074,170119,9929,3,Injection or infusion of other therapeutic or prophylactic substance,85.0,80+
+43881,167021,9229,3,Other radiotherapeutic procedure,53.0,50-79
+10027,199395,9962,7,Other electric countershock of heart,82.0,80+
+40595,116518,9390,12,Non-invasive mechanical ventilation,76.0,50-79
+10127,182839,8659,17,Closure of skin and subcutaneous tissue of other sites,17.0,0-19
+41976,173269,9604,4,Insertion of endotracheal tube,62.0,50-79
+40595,116518,9605,8,Other intubation of respiratory tract,76.0,50-79
+41976,155297,966,2,Enteral infusion of concentrated nutritional substances,65.0,50-79
+41976,173269,9671,3,Continuous invasive mechanical ventilation for less than 96 consecutive hours,62.0,50-79
+41976,180546,9702,2,Replacement of gastrostomy tube,64.0,50-79
+42321,114648,9904,4,Transfusion of packed cells,80.0,80+
+42281,195911,9905,10,Transfusion of platelets,68.0,50-79
+42281,195911,9907,9,Transfusion of other serum,68.0,50-79
+42135,117105,9915,4,Parenteral infusion of concentrated nutritional substances,44.0,20-49
+10074,170119,8847,4,Arteriography of other intra-abdominal arteries,85.0,80+
+40503,168803,8856,2,Coronary arteriography using two catheters,88.0,80+
+41795,138132,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,48.0,20-49
+10027,199395,8872,4,Diagnostic ultrasound of heart,82.0,80+
+10114,167957,9920,4,Injection or infusion of platelet inhibitor,72.0,50-79
+10044,124073,9229,1,Other radiotherapeutic procedure,81.0,80+
+10111,174739,9962,5,Other electric countershock of heart,82.0,80+
+10124,170883,9390,3,Non-invasive mechanical ventilation,83.0,80+
+40124,146893,9604,2,Insertion of endotracheal tube,67.0,50-79
+40595,116518,9605,7,Other intubation of respiratory tract,76.0,50-79
+41976,153826,966,3,Enteral infusion of concentrated nutritional substances,66.0,50-79
+44154,174245,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,299.0,80+
+41914,101361,9904,9,Transfusion of packed cells,55.0,50-79
+10045,126949,9905,14,Transfusion of platelets,68.0,50-79
+10119,165436,9907,3,Transfusion of other serum,81.0,80+
+40595,116518,9915,10,Parenteral infusion of concentrated nutritional substances,76.0,50-79
+40601,182879,8856,2,Coronary arteriography using two catheters,72.0,50-79
+43798,130870,9672,5,Continuous invasive mechanical ventilation for 96 consecutive hours or more,61.0,50-79
+10132,197611,8872,1,Diagnostic ultrasound of heart,65.0,50-79
+10111,174739,9390,7,Non-invasive mechanical ventilation,82.0,80+
+40310,186361,9604,7,Insertion of endotracheal tube,40.0,20-49
+40595,116518,9605,1,Other intubation of respiratory tract,76.0,50-79
+41976,149469,966,3,Enteral infusion of concentrated nutritional substances,66.0,50-79
+40124,146893,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,67.0,50-79
+43881,172454,9904,2,Transfusion of packed cells,53.0,50-79
+10027,199395,9905,11,Transfusion of platelets,82.0,80+
+10027,199395,9907,12,Transfusion of other serum,82.0,80+
+10045,126949,9915,11,Parenteral infusion of concentrated nutritional substances,68.0,50-79
+42033,154156,8856,2,Coronary arteriography using two catheters,85.0,80+
+42075,151323,9672,15,Continuous invasive mechanical ventilation for 96 consecutive hours or more,80.0,80+
+10042,148562,8872,6,Diagnostic ultrasound of heart,70.0,50-79
+41795,138132,9604,2,Insertion of endotracheal tube,48.0,20-49
+41976,130681,966,3,Enteral infusion of concentrated nutritional substances,64.0,50-79
+40124,126179,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,66.0,50-79
+44228,103379,9904,3,Transfusion of packed cells,58.0,50-79
+10120,193924,9905,8,Transfusion of platelets,27.0,20-49
+10120,193924,9907,5,Transfusion of other serum,27.0,20-49
+10059,122098,9915,5,Parenteral infusion of concentrated nutritional substances,69.0,50-79
+42075,151323,8856,5,Coronary arteriography using two catheters,80.0,80+
+41976,172082,9672,4,Continuous invasive mechanical ventilation for 96 consecutive hours or more,63.0,50-79
+43798,130870,9604,4,Insertion of endotracheal tube,61.0,50-79
+41976,180546,966,3,Enteral infusion of concentrated nutritional substances,64.0,50-79
+42075,151323,9671,10,Continuous invasive mechanical ventilation for less than 96 consecutive hours,80.0,80+
+42367,139932,9904,10,Transfusion of packed cells,87.0,80+
+10006,142345,9907,6,Transfusion of other serum,70.0,50-79
+10083,134993,9915,2,Parenteral infusion of concentrated nutritional substances,82.0,80+
+10040,157839,8856,5,Coronary arteriography using two catheters,85.0,80+
+42066,171628,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,50.0,50-79
+42075,151323,9604,14,Insertion of endotracheal tube,80.0,80+
+41976,173269,966,5,Enteral infusion of concentrated nutritional substances,62.0,50-79
+42430,100969,9671,2,Continuous invasive mechanical ventilation for less than 96 consecutive hours,80.0,80+
+42412,114867,9904,2,Transfusion of packed cells,86.0,80+
+10119,157466,9915,8,Parenteral infusion of concentrated nutritional substances,81.0,80+
+10061,145203,8856,2,Coronary arteriography using two catheters,75.0,50-79
+42135,117105,9672,3,Continuous invasive mechanical ventilation for 96 consecutive hours or more,44.0,20-49
+41976,172082,9604,3,Insertion of endotracheal tube,63.0,50-79
+42135,102203,966,1,Enteral infusion of concentrated nutritional substances,43.0,20-49
+40310,157609,9671,3,Continuous invasive mechanical ventilation for less than 96 consecutive hours,41.0,20-49
+42281,195911,9904,11,Transfusion of packed cells,68.0,50-79
+10126,160445,9915,22,Parenteral infusion of concentrated nutritional substances,44.0,20-49
+10114,167957,8856,3,Coronary arteriography using two catheters,72.0,50-79
+41914,101361,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,55.0,50-79
+42430,100969,9604,1,Insertion of endotracheal tube,80.0,80+
+44083,125157,966,4,Enteral infusion of concentrated nutritional substances,54.0,50-79
+41976,125449,9671,3,Continuous invasive mechanical ventilation for less than 96 consecutive hours,62.0,50-79
+43881,167021,9904,4,Transfusion of packed cells,53.0,50-79
+10076,198503,9915,3,Parenteral infusion of concentrated nutritional substances,68.0,50-79
+42367,139932,9672,8,Continuous invasive mechanical ventilation for 96 consecutive hours or more,87.0,80+
+42135,117105,9604,2,Insertion of endotracheal tube,44.0,20-49
+40310,186361,966,8,Enteral infusion of concentrated nutritional substances,40.0,20-49
+40595,116518,9671,5,Continuous invasive mechanical ventilation for less than 96 consecutive hours,76.0,50-79
+10045,126949,9904,13,Transfusion of packed cells,68.0,50-79
+10102,164869,9915,3,Parenteral infusion of concentrated nutritional substances,70.0,50-79
+42281,195911,9672,2,Continuous invasive mechanical ventilation for 96 consecutive hours or more,68.0,50-79
+41914,101361,9604,2,Insertion of endotracheal tube,55.0,50-79
+41795,138132,966,6,Enteral infusion of concentrated nutritional substances,48.0,20-49
+43909,167612,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,78.0,50-79
+10093,165393,9904,4,Transfusion of packed cells,87.0,80+
+10061,145203,9915,8,Parenteral infusion of concentrated nutritional substances,75.0,50-79
+44212,163189,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,45.0,20-49
+41976,125449,9604,2,Insertion of endotracheal tube,62.0,50-79
+43798,130870,966,8,Enteral infusion of concentrated nutritional substances,61.0,50-79
+10093,165393,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,87.0,80+
+10083,134993,9904,4,Transfusion of packed cells,82.0,80+
+10011,105331,9915,1,Parenteral infusion of concentrated nutritional substances,36.0,20-49
+10059,122098,9672,4,Continuous invasive mechanical ventilation for 96 consecutive hours or more,69.0,50-79
+42367,139932,9604,7,Insertion of endotracheal tube,87.0,80+
+43798,130870,966,3,Enteral infusion of concentrated nutritional substances,61.0,50-79
+10090,176805,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,27.0,20-49
+10059,142582,9904,2,Transfusion of packed cells,69.0,50-79
+10069,146672,9915,1,Parenteral infusion of concentrated nutritional substances,41.0,20-49
+10124,170883,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,83.0,80+
+10093,165393,9604,2,Insertion of endotracheal tube,87.0,80+
+41976,176016,966,7,Enteral infusion of concentrated nutritional substances,62.0,50-79
+10089,190301,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,86.0,80+
+10124,182664,9904,2,Transfusion of packed cells,83.0,80+
+10130,156668,9915,5,Parenteral infusion of concentrated nutritional substances,51.0,50-79
+10119,157466,9672,4,Continuous invasive mechanical ventilation for 96 consecutive hours or more,81.0,80+
+10090,176805,9604,2,Insertion of endotracheal tube,27.0,20-49
+42075,151323,966,13,Enteral infusion of concentrated nutritional substances,80.0,80+
+10019,177759,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,48.0,20-49
+10119,165436,9904,2,Transfusion of packed cells,81.0,80+
+10120,193924,9672,2,Continuous invasive mechanical ventilation for 96 consecutive hours or more,27.0,20-49
+10124,170883,9604,4,Insertion of endotracheal tube,83.0,80+
+41976,172082,966,6,Enteral infusion of concentrated nutritional substances,63.0,50-79
+10067,160442,9671,6,Continuous invasive mechanical ventilation for less than 96 consecutive hours,29.0,20-49
+10119,157466,9904,9,Transfusion of packed cells,81.0,80+
+10076,198503,9672,1,Continuous invasive mechanical ventilation for 96 consecutive hours or more,68.0,50-79
+10067,160442,9604,5,Insertion of endotracheal tube,29.0,20-49
+40310,157609,966,4,Enteral infusion of concentrated nutritional substances,41.0,20-49
+10088,168233,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,77.0,50-79
+10019,177759,9904,4,Transfusion of packed cells,48.0,20-49
+10111,174739,9672,3,Continuous invasive mechanical ventilation for 96 consecutive hours or more,82.0,80+
+10043,168674,9604,2,Insertion of endotracheal tube,76.0,50-79
+41914,101361,966,3,Enteral infusion of concentrated nutritional substances,55.0,50-79
+10043,168674,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,76.0,50-79
+10067,160442,9904,7,Transfusion of packed cells,29.0,20-49
+10061,145203,9672,3,Continuous invasive mechanical ventilation for 96 consecutive hours or more,75.0,50-79
+10040,157839,9604,8,Insertion of endotracheal tube,85.0,80+
+41976,125449,966,5,Enteral infusion of concentrated nutritional substances,62.0,50-79
+10040,157839,9671,7,Continuous invasive mechanical ventilation for less than 96 consecutive hours,85.0,80+
+10127,182839,9904,19,Transfusion of packed cells,17.0,0-19
+10069,146672,9672,4,Continuous invasive mechanical ventilation for 96 consecutive hours or more,41.0,20-49
+10076,198503,9604,2,Insertion of endotracheal tube,68.0,50-79
+40595,116518,966,11,Enteral infusion of concentrated nutritional substances,76.0,50-79
+10088,169938,9671,1,Continuous invasive mechanical ventilation for less than 96 consecutive hours,77.0,50-79
+10027,199395,9904,10,Transfusion of packed cells,82.0,80+
+10111,174739,9604,4,Insertion of endotracheal tube,82.0,80+
+42281,195911,966,7,Enteral infusion of concentrated nutritional substances,68.0,50-79
+10114,167957,9671,5,Continuous invasive mechanical ventilation for less than 96 consecutive hours,72.0,50-79
+10120,193924,9904,6,Transfusion of packed cells,27.0,20-49
+10069,146672,9604,5,Insertion of endotracheal tube,41.0,20-49
+44212,163189,966,6,Enteral infusion of concentrated nutritional substances,45.0,20-49
+10017,199207,9904,2,Transfusion of packed cells,73.0,50-79
+10045,126949,966,12,Enteral infusion of concentrated nutritional substances,68.0,50-79
+10032,140372,9904,2,Transfusion of packed cells,88.0,80+
+10065,183314,966,3,Enteral infusion of concentrated nutritional substances,78.0,50-79
+10056,100375,9904,1,Transfusion of packed cells,83.0,80+
+10124,170883,966,6,Enteral infusion of concentrated nutritional substances,83.0,80+
+10042,148562,9904,8,Transfusion of packed cells,70.0,50-79
+10126,160445,966,16,Enteral infusion of concentrated nutritional substances,44.0,20-49
+10088,149044,9904,2,Transfusion of packed cells,77.0,50-79
+10127,182839,966,15,Enteral infusion of concentrated nutritional substances,17.0,0-19
+10088,169938,9904,5,Transfusion of packed cells,77.0,50-79
+10088,168233,966,2,Enteral infusion of concentrated nutritional substances,77.0,50-79
+10076,198503,9904,5,Transfusion of packed cells,68.0,50-79
+10088,149044,966,1,Enteral infusion of concentrated nutritional substances,77.0,50-79
+10074,170119,9904,5,Transfusion of packed cells,85.0,80+
+10088,169938,966,2,Enteral infusion of concentrated nutritional substances,77.0,50-79
+10102,164869,9904,1,Transfusion of packed cells,70.0,50-79
+10061,145203,966,7,Enteral infusion of concentrated nutritional substances,75.0,50-79
+10069,146672,966,2,Enteral infusion of concentrated nutritional substances,41.0,20-49

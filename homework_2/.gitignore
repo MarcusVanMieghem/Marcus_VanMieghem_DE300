@@ -1,0 +1,7 @@
+*.crt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.wal
