@@ -1,0 +1,4 @@
+I completed this homework individually. - Marcus Van Mieghem
+
+MWAA environment: VanMieghem_MWAA
+S3 bucket: vanmieghem-mwaa

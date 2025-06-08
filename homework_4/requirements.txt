@@ -1,0 +1,7 @@
+pandas
+boto3
+requests
+matplotlib
+scikit-learn
+numpy
+pendulum

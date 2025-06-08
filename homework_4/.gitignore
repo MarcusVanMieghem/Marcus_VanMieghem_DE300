@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+.ipynb_checkpoints 
+.ipython 
+.jupyter
+.local
+.npm
+=======
+.DS_Store
+__pycache__/
+*.pyc
+>>>>>>> aa31331 (HW 4 upload)
